@@ -1,18 +1,11 @@
 <a href="#"><img width="100%" height=400px src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" height="105px"/></a>
 
-<h1 align="center">🖤 Olá, eu me chamo Chris 🖤</h1>
-<h3 align="center">🍉 quando pensar que javascript está ruim, lembre-se das aulas de cálculo 1 🍉</h3>
+<h1 align="center">👋 Welcome to my profile 👋</h1>
+<h3 align="center"> Me chamo Christian, tenho 20 anos e resido atualmente em São Carlos, SP. </h3>
 
-- 🌱 Aprendendo frameworks/bibliotecas de Javascript! **Jquery,React,Vue**
+- 📚 Trabalhando em projetos front-end para adquirir experiência.
 
-- 📫 Como me contatar: **madlordx@gmail.com**
-
-- ⚡ Fun fact: **Bis black é muito bom, eu amo**
-
-<h3 align="left">Connect with me: mAracujá#5951</h3>
-<p align="left">
-<a href="https://discord.gg/mAracuja#5951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mAracuja#5951" height="30" width="40" /></a>
-</p>
+- 📫 Como me contatar: **christiancpolli@gmail.com**
 
 
 <p align="center">
