@@ -33,6 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
 
           
          
