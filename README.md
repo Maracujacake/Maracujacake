@@ -23,20 +23,24 @@
 
 <h3 align="left">Conhecimentos, linguagens e ferramentas:</h3>
 <p align="left"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Html" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="CSS" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px; /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"  height="40" style="max-width:100%;margin: 0 2px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Html"  height="40" style="max-width:100%;margin: 0 2px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS"  height="40" style="max-width:100%;margin: 0 2px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="CSS"  height="40" style="max-width:100%;margin: 0 2px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="40" style="max-width:100%;margin: 0 2px; /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop"  height="40" style="max-width:100%;margin: 0 2px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"   height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width:100%;margin: 0 2px;" />
+
+
 
           
-         
          
           
 <br>  <br>  </p>
