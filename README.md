@@ -21,7 +21,7 @@
      
  
 
-<h3 align="left">Linguagens, ferramentas e frameworks:</h3>
+<h3 align="left">Conhecimentos, linguagens e ferramentas:</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/>
