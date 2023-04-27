@@ -31,10 +31,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px; /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" widtf="45" height="40" style="max-width:100%;margin: 0 2px;" />
+
           
          
          
