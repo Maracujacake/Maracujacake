@@ -5,7 +5,7 @@
 <h4 align="center"> My name is Christian, I'm 21 years old and I currently live in São Carlos, SP </h4>
 <h5 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Bootstrap" widtf="15" height="15" style="max-width:100%;margin: 0 2px;"></img> Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
 
-- 📚 Trabalhando em projetos front-end para adquirir experiência.
+- 📚 Trabalhando em projetos para adquirir experiência.
 
 - 📫 Como me contatar: **christiancpolli@gmail.com**
 
