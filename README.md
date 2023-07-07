@@ -21,7 +21,7 @@ Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Maracujacake&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<img align="right" width="300" src="https://i.pinimg.com/originals/bc/cf/5c/bccf5c393f0504a98528ca5593e72180.gif"> 
 <br/>
      
  
