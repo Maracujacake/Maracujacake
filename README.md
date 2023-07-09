@@ -33,8 +33,8 @@ Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="Html"  height="40" style="max-width:100%;margin: 0 2px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS"  height="40" style="max-width:100%;margin: 0 2px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="CSS"  height="40" style="max-width:100%;margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="40" style="max-width:100%;margin: 0 2px; /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" widtf="45" height="40" style="max-width:100%;margin: 0 2px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="40" style="max-width:100%;margin: 0 2px; "/> 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop"  height="40" style="max-width:100%;margin: 0 2px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"   height="40" style="max-width:100%;margin: 0 2px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
@@ -44,7 +44,8 @@ Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width:100%;margin: 0 2px;" />
 
 
-
+<h4 align="left">Leituras :open_book: :</h4>
+:computer: <p>Head First: Objected-Oriented Analysis and Design</p>
           
          
           
