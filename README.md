@@ -45,9 +45,9 @@ Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
 
 
 <h4 align="left">Leituras :open_book: :</h4>
-:computer: <p>Head First: Objected-Oriented Analysis and Design</p>
+<p>💻 Head First: Objected-Oriented Analysis and Design</p>
           
          
           
-<br>  <br>  </p>
+<br>  <br>  
 
