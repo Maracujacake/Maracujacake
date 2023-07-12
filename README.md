@@ -5,7 +5,7 @@
 
 
 <h4> My name is Christian, I'm 21 years old and I currently live in São Carlos, SP </h4> 
-<img align="right" width="400" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif">
+<img align="right" width="300" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif">
 
 <h5 align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Bootstrap" width="15" height="15" style="max-width:100%;margin: 0 2px;">
 Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
@@ -21,7 +21,7 @@ Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Maracujacake&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<img align="right" width="400" src="https://i.pinimg.com/originals/bc/cf/5c/bccf5c393f0504a98528ca5593e72180.gif"> 
+<img align="right" width="300" src="https://i.pinimg.com/originals/bc/cf/5c/bccf5c393f0504a98528ca5593e72180.gif"> 
 <br/>
      
  
