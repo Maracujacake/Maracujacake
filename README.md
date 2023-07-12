@@ -40,6 +40,7 @@ Linkedin: https://www.linkedin.com/in/christian-polli-358b41233/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40" style="max-width:100%;margin: 0 2px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width:100%;margin: 0 2px;" />
 
