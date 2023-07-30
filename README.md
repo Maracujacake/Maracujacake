@@ -52,3 +52,5 @@
 <h2 align="center">Leituras :open_book:</h2>
 
 <p align="center">💻 Head First: Objected-Oriented Analysis and Design</p>
+<p align="center">🚴 BDD in action</p>
+<p align="center">🧮 Grokking Algorithms: An illustrated guide for programmers and other curious people</p>
