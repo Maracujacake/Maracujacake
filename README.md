@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Olá, me chamo Christian!</h2>
-  <p>Desenvolvedor de software de 21 anos em busca de especialização em Java. Com experiência que abrange desde o desenvolvimento back-end até a criação de interfaces front-end intuitivas, tenho um forte interesse em Segurança da Informação. Além do mundo da programação, sou um ávido leitor e um apreciador de música. Estou sempre aberto a oportunidades de colaboração e aprendizado, então não hesite em entrar em contato comigo para discutir projetos e ideias inovadoras.</p>
+  <p>Desenvolvedor de software de 22 anos em busca de especialização em Java. Com experiência que abrange desde o desenvolvimento back-end até a criação de interfaces front-end intuitivas, tenho um forte interesse em Segurança da Informação. Além do mundo da programação, sou um ávido leitor e um apreciador de música. Estou sempre aberto a oportunidades de colaboração e aprendizado, então não hesite em entrar em contato comigo para discutir projetos e ideias inovadoras.</p>
 </div>
 
 <table align="center">
